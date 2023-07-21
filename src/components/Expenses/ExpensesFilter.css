@@ -1,0 +1,10 @@
+.expenses-filter__control {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.expenses-filter__control select {
+    padding: 0.4rem 1rem;
+    font-size: 0.75rem;
+}
