@@ -5,6 +5,8 @@
 }
 
 .expenses-filter__control select {
-    padding: 0.4rem 1rem;
-    font-size: 0.75rem;
+    padding: 0.5rem 2rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-right: 1rem;
 }
