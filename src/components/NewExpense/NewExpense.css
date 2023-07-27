@@ -1,0 +1,9 @@
+.new-expense {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8e74e9;
+  width: 50rem;
+  margin: 1rem auto;
+  border-radius: 12px;
+}
